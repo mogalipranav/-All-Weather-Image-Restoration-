@@ -163,7 +163,7 @@ The added Haar DWT branch:
 
 This repository is based on the original AWRaCLe implementation by Sudarshan Rajagopalan and Vishal M. Patel. The original code also builds on PromptIR.
 
-This project was completed as a lab reproduction and improvement study. The main contribution in this repository is the addition of Haar Wavelet DWT based degradation context enhancement and the comparison against the reproduced baseline.
+This project was completed as a lab reproduction and improvement study. The main contribution in this repository is the addition of Haar Wavelet DWT based degradation context enhancement and the comparison against the reproduced baseline. 
 
 ## Citation
 
