@@ -165,15 +165,3 @@ This repository is based on the original AWRaCLe implementation by Sudarshan Raj
 
 This project was completed as a lab reproduction and improvement study. The main contribution in this repository is the addition of Haar Wavelet DWT based degradation context enhancement and the comparison against the reproduced baseline. 
 
-## Citation
-
-If you use the original AWRaCLe work, please cite:
-
-```bibtex
-@article{rajagopalan2024awracle,
-  title={AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning},
-  author={Sudarshan Rajagopalan and Vishal M. Patel},
-  journal={arXiv preprint arXiv:2409.00263},
-  year={2024}
-}
-```
