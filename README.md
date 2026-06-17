@@ -99,21 +99,7 @@ This project uses PyTorch, PyTorch Lightning, TorchMetrics, CLIP, OpenCV, and im
 
 ## Dataset
 
-The project follows the dataset format used by the original AWRaCLe implementation. The training and validation JSON files should point to degraded images and their corresponding clean target images.
-
-Expected dataset organization is similar to:
-
-```text
-data_awracle/
-|-- CSD/
-|-- Rain13K/
-|-- RESIDE/
-|-- Snow100k/
-|-- Train/
-`-- Train_clip/
-```
-
-Update the dataset paths in `options.py` or pass the required arguments while training/testing.
+The project uses a subset of data of the original AWRaCLe implementation and follows the dataset format used by the original AWRaCLe implementation. The training and validation JSON files should point to degraded images and their corresponding clean target images.
 
 ## Training
 
